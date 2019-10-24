@@ -2,6 +2,7 @@ import cv2 as op
 from matplotlib import pyplot as plt
 import numpy as np
 
+#Leer una imagen existente
 def read():
     vimg = []    
     for i in range(0, 15):
@@ -9,7 +10,7 @@ def read():
         vimg.append(s)
     return vimg
 
-
+#Genera la suma de la intensidades
 def hist(i, w, h):
     
     datos = np.zeros(256, dtype = np.int)
