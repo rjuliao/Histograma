@@ -1,4 +1,4 @@
-# Histograma :flooppy_disk:
+# Histograma :floppy_disk:
 
 
 
@@ -13,7 +13,7 @@ Usando la librería ```OpenCV``` se leen las diferentes imagenes que se encuentr
 Usando la libreria ```matplotlib``` se crea un histograma usando las intensidades anteriores.
 
 
-## Motivación :mortat_board:
+## Motivación :mortar_board:
 
 -  Aprendizaje de python
 -  Aprender a hacer un histograma usando matplotlib
